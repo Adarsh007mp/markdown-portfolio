@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<ul>
+<Li>Mobile phone 📱📱 </li>
+<li>Laptop 💻💻</li>
+<li>Coding </li>
+<li>Traveling </li>
+</ul>
