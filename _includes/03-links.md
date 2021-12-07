@@ -1,1 +1,1 @@
-GitHub.com/Adarsh007mp
+[GitHub](http://github.com/Adarsh007mp)
